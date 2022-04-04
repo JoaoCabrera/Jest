@@ -1,6 +1,6 @@
 ## Sobre:
 
-Projeto de implementação de testes utilizando o Jest para verificar se uma série de funções estão funcionando corretamente. Feito durante o curso da trybe.
+Projeto de implementação de testes utilizando o Jest para verificar se uma série de funções estão funcionando corretamente. Feito durante o periodo do curso da trybe.
 
 ## Tecnologias:
 
